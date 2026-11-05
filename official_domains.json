@@ -1,0 +1,53 @@
+{
+  "brand": "DaVinci Deluxe Cloud Edition v1.0.44",
+  "domains": [
+    {
+      "host": "www.davincideluxe.fr",
+      "url": "https://www.davincideluxe.fr",
+      "label": "Global Flagship & Français",
+      "hreflang": "x-default"
+    },
+    {
+      "host": "www.davincideluxe.org",
+      "url": "https://www.davincideluxe.org",
+      "label": "International & UK Edition (.org)",
+      "hreflang": "en-GB"
+    },
+    {
+      "host": "www.davincideluxe.app",
+      "url": "https://www.davincideluxe.app",
+      "label": "Global Cloud Web App & US Edition (.app)",
+      "hreflang": "en-US"
+    },
+    {
+      "host": "www.davincideluxe.software",
+      "url": "https://www.davincideluxe.software",
+      "label": "Global English Software Hub (.software)",
+      "hreflang": "en"
+    },
+    {
+      "host": "www.davincideluxe.es",
+      "url": "https://www.davincideluxe.es",
+      "label": "Edición Oficial Español (.es)",
+      "hreflang": "es-ES"
+    },
+    {
+      "host": "www.davincideluxe.de",
+      "url": "https://www.davincideluxe.de",
+      "label": "Offizielle Deutsche Edition (.de)",
+      "hreflang": "de-DE"
+    },
+    {
+      "host": "www.davincideluxe.it",
+      "url": "https://www.davincideluxe.it",
+      "label": "Edizione Ufficiale Italiana (.it)",
+      "hreflang": "it-IT"
+    },
+    {
+      "host": "www.aesoftech.eu",
+      "url": "https://www.aesoftech.eu",
+      "label": "European Engineering Portal (.eu)",
+      "hreflang": "en-IE"
+    }
+  ]
+}
