@@ -29,7 +29,7 @@
 
 ## 📊 Live Platform Totals Across All Official Domains
 
-- **Passenger Cars & Vans:** **4,962+ ECUs across 82 brands**
+- **Passenger Cars & Vans:** **4,964+ ECUs across 82 brands**
 - **24V Heavy-Duty Trucks & Agriculture:** **452+ ECUs across 82 brands**
 - **Boats, Outboards, Inboards & Jet Skis:** **30+ Marine Propulsion Brands** ([/boats](https://www.davincideluxe.fr/boats))
 - **Official Digital Shop:** **300 instant-download DAMOS, A2L, Virgin ORI & Pinout packages** ([/shop](https://www.davincideluxe.fr/shop))
