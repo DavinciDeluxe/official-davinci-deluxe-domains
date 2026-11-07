@@ -1,6 +1,6 @@
-# Official DaVinci Deluxe Cloud Edition Domains, Mirrors & Authenticity Verification (v1.0.44)
+# Official DaVinci Deluxe Cloud Edition Domains, Mirrors & Authenticity Verification (v1.0.45)
 
-> 🛡️ **ANTI-CLONE / ANTI-COUNTERFEIT NOTICE:** Old offline cracked executables sold on third-party marketplaces (`v1.0.28`, `v1.0.30`, `v1.0.35`, `v1.0.37`) are outdated, malware-infected counterfeits with broken checksums that brick modern ECUs. **DaVinci Deluxe Cloud Edition (v1.0.44)** is delivered **exclusively** through our verified official domains listed below. Read our full **[Scam & Clone Warning](https://www.davincideluxe.fr/scam-warning)** and **[Official Verification Page](https://www.davincideluxe.fr/official)**.
+> 🛡️ **ANTI-CLONE / ANTI-COUNTERFEIT NOTICE:** Old offline cracked executables sold on third-party marketplaces (`v1.0.28`, `v1.0.30`, `v1.0.35`, `v1.0.37`) are outdated, malware-infected counterfeits with broken checksums that brick modern ECUs. **DaVinci Deluxe Cloud Edition (v1.0.45)** is delivered **exclusively** through our verified official domains listed below. Read our full **[Scam & Clone Warning](https://www.davincideluxe.fr/scam-warning)** and **[Official Verification Page](https://www.davincideluxe.fr/official)**.
 
 ### 🌍 Official DaVinci Deluxe Cloud Edition International Portals
 
@@ -29,7 +29,7 @@
 
 ## 📊 Live Platform Totals Across All Official Domains
 
-- **Passenger Cars & Vans:** **4,964+ ECUs across 82 brands**
+- **Passenger Cars & Vans:** **4,973+ ECUs across 82 brands**
 - **24V Heavy-Duty Trucks & Agriculture:** **452+ ECUs across 82 brands**
 - **Boats, Outboards, Inboards & Jet Skis:** **30+ Marine Propulsion Brands** ([/boats](https://www.davincideluxe.fr/boats))
 - **Official Digital Shop:** **300 instant-download DAMOS, A2L, Virgin ORI & Pinout packages** ([/shop](https://www.davincideluxe.fr/shop))
