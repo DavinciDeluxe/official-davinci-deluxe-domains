@@ -17,7 +17,6 @@
 
 ## 💎 Official DaVinci Deluxe Cloud Edition Software Licenses
 
-- **[Cars & Vans — 7-Day Real Software Test (€9.99)](https://www.davincideluxe.fr/software/davinci-deluxe-cars-7day-trial)**
 - **[Cars & Vans — 24-Hour Active Work Pass (€49.99)](https://www.davincideluxe.fr/software/davinci-deluxe-cars-24h-pass)**
 - **[Cars & Vans — Monthly Unlimited Plan (€100.99/mo)](https://www.davincideluxe.fr/software/davinci-deluxe-cars-monthly)**
 - **[Cars & Vans — Yearly VIP License (€1,009/yr)](https://www.davincideluxe.fr/software/davinci-deluxe-cars-yearly-vip)**
@@ -32,7 +31,7 @@
 - **Passenger Cars & Vans:** **5,150+ ECUs across 82 brands**
 - **24V Heavy-Duty Trucks & Agriculture:** **452+ ECUs across 82 brands**
 - **Boats, Outboards, Inboards & Jet Skis:** **30+ Marine Propulsion Brands** ([/boats](https://www.davincideluxe.fr/boats))
-- **Official Digital Shop:** **347 instant-download DAMOS, A2L, Virgin ORI & Pinout packages** ([/shop](https://www.davincideluxe.fr/shop))
+- **Official Digital Shop:** **395 instant-download DAMOS, A2L, Virgin ORI & Pinout packages** ([/shop](https://www.davincideluxe.fr/shop))
 
 
 ---
