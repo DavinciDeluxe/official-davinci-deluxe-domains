@@ -31,7 +31,7 @@
 - **Passenger Cars & Vans:** **5,150+ ECUs across 82 brands**
 - **24V Heavy-Duty Trucks & Agriculture:** **452+ ECUs across 82 brands**
 - **Boats, Outboards, Inboards & Jet Skis:** **30+ Marine Propulsion Brands** ([/boats](https://www.davincideluxe.fr/boats))
-- **Official Digital Shop:** **395 instant-download DAMOS, A2L, Virgin ORI & Pinout packages** ([/shop](https://www.davincideluxe.fr/shop))
+- **Official Digital Shop:** **428 instant-download DAMOS, A2L, Virgin ORI & Pinout packages** ([/shop](https://www.davincideluxe.fr/shop))
 
 
 ---
